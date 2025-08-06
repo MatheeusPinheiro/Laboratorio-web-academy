@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Ol  mundo! 
 editando arquivo 
+=======
+Olï¿½ mundo! 
+Editando o arquivo atravÃ©s do GitHub
+>>>>>>> 5777e37df49f20eeeab389cf02c08f686d9fc432
